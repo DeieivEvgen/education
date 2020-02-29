@@ -1,0 +1,14 @@
+st = [12345678909876543216738394227874899,"klfcklskjsk",1.111111111111,"sgfuqh;guvhweiu"]
+print(st[::2])
+a = 5
+b = 17
+c = 45
+print (a+b*c)
+hype = {"Evgen":"12","Vitaliy":"32","Helen":"40","Bohdan" :"7" }
+print(hype["Evgen"])
+age = 11
+if age>18:
+    then
+    print("univercity")
+else:
+    print("school")
